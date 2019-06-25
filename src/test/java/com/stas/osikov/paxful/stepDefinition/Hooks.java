@@ -13,7 +13,6 @@ import org.testng.annotations.*;
 
 import static com.codeborne.selenide.WebDriverRunner.getWebDriver;
 
-
 public class Hooks {
     private TestNGCucumberRunner testNGCucumberRunner;
 

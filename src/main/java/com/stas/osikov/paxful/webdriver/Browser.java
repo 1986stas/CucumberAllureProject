@@ -11,7 +11,6 @@ import org.aeonbits.owner.ConfigFactory;
 import org.openqa.selenium.WebDriver;
 
 import javax.naming.NamingException;
-import java.util.concurrent.TimeUnit;
 
 public class Browser {
 
