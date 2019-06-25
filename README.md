@@ -1,0 +1,1 @@
+To execute the tests perform the following: mvn clean test allure:report
